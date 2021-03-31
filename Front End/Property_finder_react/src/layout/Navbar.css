@@ -1,0 +1,17 @@
+
+
+  nav{
+    height:2cm;
+    font-size: larger;
+  }
+ 
+  .navbar-brand{
+    font-size: larger;
+    font-weight: 200;
+  }
+  li{
+    font-size: large;
+  }
+ .navbar-brand pull-left font-weight-bold font-italic {
+   font-size: larger;
+ }

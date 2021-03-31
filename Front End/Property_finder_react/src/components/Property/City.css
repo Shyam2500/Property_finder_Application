@@ -1,0 +1,13 @@
+.city{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.property{
+    background-color: cyan;
+}
+
+.background{
+    background-color: rgb(55, 224, 78);
+}

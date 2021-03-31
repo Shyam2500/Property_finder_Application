@@ -1,0 +1,16 @@
+body {
+  font: 13px/20px "Lucida Grande", Tahoma, Verdana, sans-serif;
+  color: #404040;
+  background: #0ca3d2;
+}
+h1 {color: #0ca3d2;
+
+}
+body{
+  /* background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252_960_720.jpg"); */
+  /* background-image: url("https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+ size: 50%;
+ background-position: 50%; */
+ background-color: lightpink;
+}
+

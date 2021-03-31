@@ -1,0 +1,39 @@
+.admin-page{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(192, 231, 233);
+}
+.header{
+    position: relative;
+    height: 2cm;
+    
+}
+#button{
+   
+        line-height: 15px;
+        width: 100px;
+        font-size: 15pt;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-top: 1px;
+        margin-right: 2px;
+        position:absolute;
+        top:0;
+        right:0;
+   
+}
+
+.get-property{
+    top: 0%;
+    /* background-image: url("https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); */
+}
+
+
+body{
+    /* background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252_960_720.jpg"); */
+    /* background-image: url("https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+   size: 50%;
+   background-position: 50%; */
+  }
+  
